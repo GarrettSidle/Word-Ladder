@@ -73,7 +73,7 @@ Measuring the network’s diameter revealed that the longest shortest path betwe
 
 ![Diameter](captures/Diameter.png)
 
-Below is the network Diamter for many of the word groups within the dataset.
+Below is the network Diameter for many of the word groups within the dataset.
 
 | Word Length | Network Diameter |
 |-------------|------------------|
@@ -126,4 +126,4 @@ This project provided deep insights into word connections and network theory whi
 
 #### 6 Letter Words
 
-![6-Scrabble](captures/6-Scrabble.png)
+![6-Scrabble](captures/6-scrabble.png)
