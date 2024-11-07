@@ -1,0 +1,2 @@
+python WordLadder.py
+pause
